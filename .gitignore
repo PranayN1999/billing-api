@@ -1,0 +1,6 @@
+# Go + IDE
+/bin/
+/*.test
+.idea/
+.vscode/
+.env
